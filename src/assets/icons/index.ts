@@ -1,0 +1,11 @@
+export { ClockIcon } from './clockIcon';
+export { LanguageIcon } from './languageIcon';
+export { CalendarIcon } from './calendarIcon';
+export { VideoIcon } from './videoIcon';
+export { BookIcon } from './bookIcon';
+export { ModuleIcon } from './moduleIcon';
+export { DeviceIcon } from './deviceIcon';
+export { CertificateIcon } from './certificateIcon';
+export { LessonIcon } from './lessonIcon';
+export { CheckIcon } from './checkIcon';
+export { InfoIcon } from './infoIcon';
